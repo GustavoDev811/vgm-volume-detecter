@@ -1,0 +1,10 @@
+Instrumento: Noise — SN76489
+Chip: SN76489 | Canal: ruído
+----------------------------------------
+Notas utilizadas (do VGM original):
+
+  A-8    ##########            54.8%  (1179×)
+  A-6    #####                 26.3%  (565×)
+  A-7    ###                   18.9%  (407×)
+
+Use a nota mais frequente como referência no Furnace Tracker.

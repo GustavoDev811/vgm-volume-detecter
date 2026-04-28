@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "vgm-volume-detecter"
+version = "0.1.0"
+description = "VGM Volume Detecter — Extrator de instrumentos PSG de arquivos VGM"
+requires-python = ">=3.11"
+dependencies = [
+    "PyQt6>=6.6",
+]
+
+[project.scripts]
+vgm-volume-detecter = "vgm2dmf.gui:main"
+
+[tool.setuptools.packages.find]
+where = ["."]

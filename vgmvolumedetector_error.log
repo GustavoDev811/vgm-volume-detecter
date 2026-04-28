@@ -1,0 +1,32 @@
+ERRO FATAL:
+ModuleNotFoundError: No module named 'vgm2dmf'
+
+Traceback (most recent call last):
+  File "C:\VGMVolumeDetector\run.py", line 16, in <module>
+    from vgm2dmf.gui import main
+ModuleNotFoundError: No module named 'vgm2dmf'
+
+ERRO FATAL:
+ModuleNotFoundError: No module named 'vgmvolumedetector'
+
+Traceback (most recent call last):
+  File "C:\VGMVolumeDetector\run.py", line 16, in <module>
+    from vgmvolumedetector.gui import main
+ModuleNotFoundError: No module named 'vgmvolumedetector'
+
+ERRO FATAL:
+ModuleNotFoundError: No module named 'vgmvolumedetector'
+
+Traceback (most recent call last):
+  File "C:\VGMVolumeDetector\run.py", line 16, in <module>
+    from vgmvolumedetector.gui import main
+ModuleNotFoundError: No module named 'vgmvolumedetector'
+
+ERRO FATAL:
+ModuleNotFoundError: No module named 'vgmvolumedetector'
+
+Traceback (most recent call last):
+  File "C:\VGMVolumeDetector\run.py", line 16, in <module>
+    from vgmvolumedetector.gui import main
+ModuleNotFoundError: No module named 'vgmvolumedetector'
+
